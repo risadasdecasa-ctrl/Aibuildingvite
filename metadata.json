@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio to Vite Builder",
+  "description": "Convert AI Studio projects into production-ready Vite projects for Vercel deployment.",
+  "requestFramePermissions": []
+}
